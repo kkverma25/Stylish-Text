@@ -1,7 +1,7 @@
 # Stylish Font Bot 🐿
 This is a telegram bot help you to get stylish fonts and text.
 
-<a href="https://telegram.dog/stylishtext_Nsbot"><img src="https://img.shields.io/badge/Telegram-Bot-blue.svg?logo=telegram"></a>
+<a href="https://telegram.dog/StylishTextJoobot"><img src="https://img.shields.io/badge/Telegram-Bot-blue.svg?logo=telegram"></a>
 [![Ask Me Anything !](https://img.shields.io/badge/⭐%20My%20Tele-Acc-1abc9c.svg)](https://telegram.dog/J_O_O_0)
 [![Report Bugs!](https://badgen.net/badge/🐞%20Report%20/Bugs/red)](https://telegram.dog/J_O_O_0)
 
