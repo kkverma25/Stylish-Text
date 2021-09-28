@@ -17,7 +17,7 @@ async def start(c, m):
 
 `I can help you to get stylish fonts. Just send me some text and see magic.`
 
-**✔️ Maintained By:** [𝐄𝐕𝐄𝐑𝐄𝐓𝐓] (https://t.me/YOUR_DEVIL_DAD)
+**✔️ Maintained By:** [𝐄𝐕𝐄𝐑𝐄𝐓𝐓](https://t.me/YOUR_DEVIL_DAD)
 """
 
     # Buttons
