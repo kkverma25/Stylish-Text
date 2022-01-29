@@ -17,13 +17,13 @@ async def start(c, m):
 
 `I can help you to get stylish fonts. Just send me some text and see magic.`
 
-**✔️ Maintained By:** @YOUR_DEVIL_DAD 
+**✔️ Maintained By:** @D_E_V_l_L 
 """
 
     # Buttons
     buttons = [
         [
-            InlineKeyboardButton('My Dev ⭐', url="https://t.me/YOUR_DEVIL_DAD")
+            InlineKeyboardButton('My Dev ⭐', url="https://t.me/D_E_V_l_L")
         ]
     ]
     await m.reply_text(
